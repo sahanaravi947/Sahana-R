@@ -41,6 +41,7 @@ My objective is to grow as a *Data Analyst / Business Intelligence Professional*
 ## 📫 Let’s Connect  
 
 - *LinkedIn: https://www.linkedin.com/in/sahanaravi
+- *Portfolio: https://github.com/sahanaravi947
 - *Email: sahanaravi947@gmail.com
 
 ---
