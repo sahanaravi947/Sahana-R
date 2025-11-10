@@ -1,5 +1,5 @@
 
-## 💫Sahana R  
+## 💫Hello! I’m Sahana R 
 Hello! I’m Sahana R, a dedicated and results-oriented professional with a strong enthusiasm for **data analytics, technology, and problem-solving*. I have a deep interest in uncovering insights from data and transforming them into meaningful strategies that drive informed business decisions. My passion lies in bridging the gap between data and decision-making through analytical thinking, visualization, and automation.  
 
 With a solid foundation in *Power BI, Excel, SQL, and Python*, I specialize in analyzing datasets, developing dashboards, and identifying patterns that help organizations optimize performance. I enjoy taking on complex challenges — from cleaning and structuring raw data to visualizing it in a clear, compelling way that tells a story.  
